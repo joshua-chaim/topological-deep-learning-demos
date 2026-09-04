@@ -21,3 +21,4 @@ cannot express.
 Single-realisation illustration; seed-averaged statistics and application to
 neuroimaging (HCP/NSD) belong to the wider PhD programme.
 Numbers quoted are from a fixed-seed run; exact values may vary slightly across NumPy versions, while the qualitative gap collapse is stable.
+Numbers quoted are from a fixed-seed run; exact values vary slightly across NumPy versions (e.g. γ ≈ 0.99 → 0.77 on macOS, 0.94 → 0.77 on Linux), while the qualitative gap collapse is stable.
