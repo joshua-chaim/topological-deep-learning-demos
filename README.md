@@ -21,7 +21,7 @@ correlation is zero in expectation. A pairwise/message-passing model scores
 operators B1/B2, the block Dirac operator D (with a numerical check that
 D² = diag of the Hodge Laplacians), and the **Dirac spectral gap γ** — the weakest
 supported topological mode. Weakening a network's triangles while holding edge
-count fixed collapses γ (0.936 → 0.769 at τ=0.5), an effect invisible to
+count fixed collapses γ (→ 0.936→0.986, 0.769→0.768 → τ=0.5), an effect invisible to
 edge-level summaries.
 
 ## Setup
